@@ -1,0 +1,10 @@
+cp 'Screenshot at 2023-07-14 12-38-39.png' ../re/a.png
+cp 'Screenshot at 2023-07-14 12-39-16.png' ../re/b.png
+cp 'Screenshot at 2023-07-14 12-39-25.png' ../re/c.png
+cp 'Screenshot at 2023-07-14 12-39-43.png' ../re/dd.png
+cp 'Screenshot at 2023-07-14 12-39-55.png' ../re/e.png
+cp 'Screenshot at 2023-07-14 12-47-50.png' ../re/d.png
+
+#convert 'Screenshot at 2023-07-14 12-38-39.png' -resize 500x a.jpg
+convert Main.png -resize 500x main.png
+
